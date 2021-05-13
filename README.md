@@ -1,1 +1,1 @@
-# dcim-cli - Data Center Infrastructure Management Command Line Interface
+# Data Center Infrastructure Management Command Line Interface
